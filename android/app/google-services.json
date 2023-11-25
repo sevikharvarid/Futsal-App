@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1002373097919",
+    "firebase_url": "https://lsfutsal-apk-default-rtdb.firebaseio.com",
+    "project_id": "lsfutsal-apk",
+    "storage_bucket": "lsfutsal-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002373097919:android:55c8ae68ae345bb281d90a",
+        "android_client_info": {
+          "package_name": "com.example.ls_futsal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002373097919-4hlj35uqbg40brjqfjohn10mbr8ce2l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm_cgQJ5d09hIJ1S6fIOLfale-DYByjEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002373097919-4hlj35uqbg40brjqfjohn10mbr8ce2l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
